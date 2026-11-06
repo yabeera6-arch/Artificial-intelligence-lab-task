@@ -26,6 +26,11 @@ Files: lab6.py (code) and lab 6 summary.docx (8-line Project Summary).
 Run: python lab6.py
 Result: sentence-aware packing was chosen — 22 chunks, 0 repeated words, 8/8 evidence kept whole, best dev Hit@3 1.0 and MRR@3 0.833; all checks pass with exit 0, and the embedding backend is recorded as a limitation since it could not run here.
 
+Lab 6: NLP Fundamentals — Tokenization, Embeddings and Text Chunking: token comparison on 6 inputs, a FAQ chatbot, word-window and sentence-aware chunking, and TF-IDF retrieval evaluation on a help-desk corpus.
+Files: lab6.py (code) and lab 6 summary.docx (8-line Project Summary).
+Run: python lab6.py
+Result: sentence-aware packing was chosen — 22 chunks, 0 repeated words, 8/8 evidence kept whole, best dev Hit@3 1.0 and MRR@3 0.833; all checks pass with exit 0, and the embedding backend is recorded as a limitation since it could not run here.
+
 
 
 
